@@ -7,41 +7,17 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="190.12706mm"
-   height="107.68542mm"
-   viewBox="0 0 190.12706 107.68542"
+   width="158.32318mm"
+   height="89.753166mm"
+   viewBox="0 0 158.32318 89.753169"
    version="1.1"
    id="svg221"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="logo_outlined_white.svg">
   <defs
-     id="defs215">
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4811"
-       id="linearGradient4813"
-       x1="40.481251"
-       y1="125.02084"
-       x2="153.19376"
-       y2="201.22084"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2077151,0,0,1.2077151,-21.698112,-49.621885)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4811">
-      <stop
-         style="stop-color:#aa0063;stop-opacity:1"
-         offset="0"
-         id="stop4807" />
-      <stop
-         style="stop-color:#0066aa;stop-opacity:1"
-         offset="1"
-         id="stop4809" />
-    </linearGradient>
-  </defs>
+     id="defs215" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -50,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="363.74107"
-     inkscape:cy="202.24017"
+     inkscape:cx="303.63925"
+     inkscape:cy="168.35233"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -80,14 +56,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-9.93647,-94.657295)">
-    <rect
-       style="opacity:1;fill:url(#linearGradient4813);fill-opacity:1;stroke:none;stroke-width:0.31954128"
-       id="rect4795"
-       width="190.12706"
-       height="107.68542"
-       x="9.93647"
-       y="94.657295" />
+     transform="translate(-25.83841,-103.62339)">
     <path
        d="m 41.52101,187.26479 h -3.22348 c -0.54799,0 -1.03151,0.19341 -1.45057,0.61247 -0.70916,0.80587 -1.5795,1.22492 -2.57878,1.22492 -2.38538,0.0322 -3.57807,-1.67621 -3.57807,-5.06087 0,-3.38466 1.12822,-5.0931 3.38466,-5.0931 1.35386,0 2.25644,0.61246 2.77219,1.77291 h 4.67405 c -0.7414,-3.707 -3.19124,-5.54439 -7.3173,-5.54439 -5.254278,0.0967 -7.8653,3.03008 -7.8653,8.86458 0.128939,5.86674 2.772196,8.83235 7.92977,8.83235 3.96488,0.0967 6.4792,-2.1275 7.25283,-5.60887 z"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.23483658px;line-height:1.25;font-family:'Harabara Mais Demo';-inkscape-font-specification:'Harabara Mais Demo';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

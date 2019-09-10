@@ -1,14 +1,30 @@
 <template>
   <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metaData.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about">About</g-link>
-      </nav>
-    </header>
+    <div
+      class="h-64 flex items-center"
+      style="background-image: linear-gradient(120deg, #aa0063 0%, #0066aa 100%);"
+    >
+      <header class="header">
+        <strong>
+          <g-link to="/">{{ $static.metaData.siteName }}</g-link>
+        </strong>
+        <nav class="nav">
+          <g-link class="nav__link" to="/">Home</g-link>
+          <g-link class="nav__link" to="/about">About</g-link>
+        </nav>
+      </header>
+      <div class="flex-1 text-center">
+        <g-image
+          src="~/assets/images/logo_outlined_white.svg"
+          alt="CleverFields"
+          class="mx-auto sm:mx-0"
+        />
+        <span
+          class="bg-brand font-bold text-center text-white text-3xl md:text-5xl px-3 mb-5 sm:mb-16"
+        >Tailwind Starter Components</span>
+      </div>
+    </div>
+
     <slot />
     <!-- index.html -->
 

@@ -1,5 +1,7 @@
 <template>
   <Layout>
+
+
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Gridsome Portfolio Starter</div>
@@ -10,6 +12,142 @@
       </div>
     </div>
     <!-- end hero -->
+
+    <div class="flex flex-wrap">
+      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+          <div
+            class="bg-cover h-48"
+            style="background-image: url(https://images.unsplash.com/photo-1523978591478-c753949ff840?w=900);"
+          ></div>
+          <div class="p-4 flex-1 flex flex-col" style="
+">
+            <h3 class="mb-4 text-2xl">My heading</h3>
+            <div class="mb-4 text-grey-darker text-sm flex-1">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            </div>
+            <a
+              href="#"
+              class="border-t border-grey-light pt-2 text-xs text-grey hover:text-red uppercase no-underline tracking-wide"
+              style="
+"
+            >Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+          <div
+            class="bg-cover h-48"
+            style="background-image: url(https://images.unsplash.com/photo-1497398276231-94ff5dc90217?w=900);"
+          ></div>
+          <div class="p-4 flex-1 flex flex-col" style="
+">
+            <h3 class="mb-4 text-2xl">My much longer heading</h3>
+            <div class="mb-4 text-grey-darker text-sm flex-1">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, tempore sapiente eveniet quibusdam ab ea, quaerat placeat numquam aspernatur, accusamus magnam neque.</p>
+            </div>
+            <a
+              href="#"
+              class="border-t border-grey-light pt-2 text-xs text-grey hover:text-red uppercase no-underline tracking-wide"
+              style="
+"
+            >Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+          <div
+            class="bg-cover h-48"
+            style="background-image: url(https://images.unsplash.com/photo-1503863937795-62954a3c0f05?w=900);"
+          ></div>
+          <div class="p-4 flex-1 flex flex-col" style="
+">
+            <h3 class="mb-4 text-2xl">My heading</h3>
+            <div class="mb-4 text-grey-darker text-sm flex-1">
+              <p>Shorter text.</p>
+            </div>
+            <a
+              href="#"
+              class="border-t border-grey-light pt-2 text-xs text-grey hover:text-red uppercase no-underline tracking-wide"
+              style="
+"
+            >Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+          <div
+            class="bg-cover h-48"
+            style="background-image: url(https://images.unsplash.com/photo-1511084901824-1c57f5a16c98?w=900);"
+          ></div>
+          <div class="p-4 flex-1 flex flex-col" style="
+">
+            <h3 class="mb-4 text-2xl">My heading</h3>
+            <div class="mb-4 text-grey-darker text-sm flex-1">
+              <p>Shorter text.</p>
+            </div>
+            <a
+              href="#"
+              class="border-t border-grey-light pt-2 text-xs text-grey hover:text-red uppercase no-underline tracking-wide"
+              style="
+"
+            >Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+          <div
+            class="bg-cover h-48"
+            style="background-image: url(https://images.unsplash.com/photo-1525935944571-4e99237764c9?w=900);"
+          ></div>
+          <div class="p-4 flex-1 flex flex-col" style="
+">
+            <h3 class="mb-4 text-2xl">My heading</h3>
+            <div class="mb-4 text-grey-darker text-sm flex-1">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, tempore sapiente eveniet quibusdam ab ea, quaerat placeat numquam aspernatur, accusamus magnam neque.</p>
+            </div>
+            <a
+              href="#"
+              class="border-t border-grey-light pt-2 text-xs text-grey hover:text-red uppercase no-underline tracking-wide"
+              style="
+"
+            >Twitter</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+          <div
+            class="bg-cover h-48"
+            style="background-image: url(https://images.unsplash.com/photo-1486506574467-c44963fc7876?w=900);"
+          ></div>
+          <div class="p-4 flex-1 flex flex-col" style="
+">
+            <h3 class="mb-4 text-2xl">My heading</h3>
+            <div class="mb-4 text-grey-darker text-sm flex-1">
+              <p>Longer content.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, tempore sapiente eveniet quibusdam ab ea, quaerat placeat numquam aspernatur, accusamus magnam neque.</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, tempore sapiente eveniet quibusdam ab ea, quaerat placeat numquam aspernatur, accusamus magnam neque.</p>
+            </div>
+            <a
+              href="#"
+              class="border-t border-grey-light pt-2 text-xs text-grey hover:text-red uppercase no-underline tracking-wide"
+              style="
+"
+            >Twitter</a>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">
@@ -41,6 +179,16 @@
           <svg width="170px" height="170px">
             <use xlink:href="#dots-triangle" />
           </svg>
+        </div>
+
+        <div class="flex">
+          <div class="shadow-xl p-4 rounded">
+            <img class="w-full" src="/img/card-top.jpg" alt="Sunset in the mountains" />
+            <div class="px-6 py-4">
+              <h2>Audit & Conseil</h2>
+              <p>Je vous accompagne dans tous vos questionnements sur le Web</p>
+            </div>
+          </div>
         </div>
 
         <ul class="text-lg sm:text-xl">
