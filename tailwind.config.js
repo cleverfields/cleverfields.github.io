@@ -1,8 +1,8 @@
 module.exports = {
     theme: {
         fontFamily: {
-            'sans': ['"Source Sans Pro"', 'sans-serif'],
-            'serif': ['"Playfair Display"', 'serif']
+            'sans-roboto': ['Roboto', 'sans-serif'],
+            'sans-palanquin': ['Palanquin', 'serif']
         },
         extend: {}
     },

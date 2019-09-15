@@ -1,7 +1,5 @@
 <template>
   <Layout>
-
-
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Gridsome Portfolio Starter</div>
@@ -14,7 +12,7 @@
     <!-- end hero -->
 
     <div class="flex flex-wrap">
-      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+      <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
         <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
@@ -22,7 +20,7 @@
           ></div>
           <div class="p-4 flex-1 flex flex-col" style="
 ">
-            <h3 class="mb-4 text-2xl">My heading</h3>
+            <h3 class="mb-4 text-2xl">Audit & Consulting</h3>
             <div class="mb-4 text-grey-darker text-sm flex-1">
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </div>
@@ -36,7 +34,7 @@
         </div>
       </div>
 
-      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+      <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
         <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
@@ -44,7 +42,7 @@
           ></div>
           <div class="p-4 flex-1 flex flex-col" style="
 ">
-            <h3 class="mb-4 text-2xl">My much longer heading</h3>
+            <h3 class="mb-4 text-2xl">Développement</h3>
             <div class="mb-4 text-grey-darker text-sm flex-1">
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi, tempore sapiente eveniet quibusdam ab ea, quaerat placeat numquam aspernatur, accusamus magnam neque.</p>
             </div>
@@ -58,7 +56,7 @@
         </div>
       </div>
 
-      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+      <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
         <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
@@ -66,7 +64,7 @@
           ></div>
           <div class="p-4 flex-1 flex flex-col" style="
 ">
-            <h3 class="mb-4 text-2xl">My heading</h3>
+            <h3 class="mb-4 text-2xl">Expertise Google</h3>
             <div class="mb-4 text-grey-darker text-sm flex-1">
               <p>Shorter text.</p>
             </div>
@@ -80,7 +78,7 @@
         </div>
       </div>
 
-      <div class="w-full sm:w-1/2 md:w-1/3 flex flex-col p-3">
+      <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
         <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
