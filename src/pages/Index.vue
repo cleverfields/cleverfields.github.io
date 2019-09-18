@@ -1,26 +1,15 @@
 <template>
   <Layout>
-    <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
-      <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Gridsome Portfolio Starter</div>
-        <div class="text-green-700 leading-tight">Powered by Vue.js &amp; Tailwind 1.0</div>
-      </div>
-      <div class="mt-8 sm:mt-0">
-        <g-image src="~/assets/images/logo.svg" alt="hero" class="mx-auto sm:mx-0" />
-      </div>
-    </div>
-    <!-- end hero -->
-
     <div class="flex flex-wrap">
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+        <div class="card overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
             style="background-image: url(https://images.unsplash.com/photo-1523978591478-c753949ff840?w=900);"
           ></div>
           <div class="p-4 flex-1 flex flex-col" style="
 ">
-            <h3 class="mb-4 text-2xl">Audit & Consulting</h3>
+            <h3 class="card__title">Audit & Consulting</h3>
             <div class="mb-4 text-grey-darker text-sm flex-1">
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </div>
