@@ -9,10 +9,9 @@
     "dependencies": {
         "@gridsome/plugin-google-analytics": "^0.1.0",
         "@gridsome/plugin-sitemap": "^0.2.1",
-        "gridsome": "^0.7.2"
+        "gridsome": "^0.7.2",
+        "gridsome-plugin-sass-resources-loader": "^0.0.3",
+        "gridsome-plugin-tailwindcss": "^2.2.25"
     },
-    "devDependencies": {
-        "gridsome-plugin-tailwindcss": "^2.2.22",
-        "tailwindcss-gradients": "^2.3.1"
-    }
+    "devDependencies": {}
 }

@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <div class="flex flex-wrap">
+    <div class="flex flex-wrap bg-gray-900">
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
         <div class="card overflow-hidden flex-1 flex flex-col">
           <div
@@ -10,7 +10,7 @@
           <div class="p-4 flex-1 flex flex-col" style="
 ">
             <h3 class="card__title">Audit & Consulting</h3>
-            <div class="mb-4 text-grey-darker text-sm flex-1">
+            <div class="card__content mb-4 text-grey-darker text-sm flex-1">
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </div>
             <a
@@ -24,7 +24,7 @@
       </div>
 
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+        <div class="card overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
             style="background-image: url(https://images.unsplash.com/photo-1497398276231-94ff5dc90217?w=900);"
@@ -46,7 +46,7 @@
       </div>
 
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+        <div class="card overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
             style="background-image: url(https://images.unsplash.com/photo-1503863937795-62954a3c0f05?w=900);"
@@ -68,7 +68,7 @@
       </div>
 
       <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 flex flex-col p-3">
-        <div class="bg-white rounded-lg shadow-lg overflow-hidden flex-1 flex flex-col">
+        <div class="card overflow-hidden flex-1 flex flex-col">
           <div
             class="bg-cover h-48"
             style="background-image: url(https://images.unsplash.com/photo-1511084901824-1c57f5a16c98?w=900);"

@@ -14,7 +14,7 @@ h6 {
 }
 
 .gradient {
-    background: linear-gradient(120deg, #aa0063 0%, #0066aa 100%);
+    background: linear-gradient(120deg, #aa0063 0%, #0066aa 70%);
 }
 
 .btn {
@@ -27,10 +27,10 @@ h6 {
 
 .card {
     @apply bg-white rounded-lg shadow-xl text-gray-600;
-}
 
-.card__title {
-    @apply mb-4 text-2xl text-gray-700;
+    &__title {
+        @apply mb-4 text-2xl text-gray-700;
+    }
 }
 
 .card__content {}
