@@ -2049,7 +2049,7 @@ color-string@^1.5.2, color-string@^1.5.3:
     color-name "^1.0.0"
     simple-swizzle "^0.2.2"
 
-color@^3.0.0, color@^3.1.1:
+color@^3.0.0, color@^3.1.1, color@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/color/-/color-3.1.2.tgz#68148e7f85d41ad7649c5fa8c8106f098d229e10"
   integrity sha512-vXTJhHebByxZn3lDvDJYw4lR5+uB3vuoHsuYA5AKuxRVn5wzzIfQKGLBmgdVRHKTJYeK5rvJcHnrd0Li49CFpg==
@@ -8005,6 +8005,14 @@ svgo@^1.0.0:
     stable "^0.1.8"
     unquote "~1.1.1"
     util.promisify "~1.0.0"
+
+tailwindcss-gradients@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/tailwindcss-gradients/-/tailwindcss-gradients-2.3.1.tgz#faf80f36f3e29f7edfa9960f210b916e38f8996b"
+  integrity sha512-SNOxVILGMShTxozdgKYrKv3AoqF9P4n+n3iKeLYQCboeeKVU5mzcRM02mDYNEFyAQ70xuFT0qbaQ5cjFOP5rgQ==
+  dependencies:
+    color "^3.1.2"
+    lodash "^4.17.15"
 
 tailwindcss@latest:
   version "1.1.2"
