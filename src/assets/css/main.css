@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Palanquin|Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Palanquin|Roboto&display=swap");
 
 body {
     @apply leading-normal tracking-normal text-white font-sans-roboto;
@@ -29,8 +29,10 @@ h6 {
     @apply bg-white rounded-lg shadow-xl text-gray-600;
 
     &__title {
-        @apply mb-4 text-2xl text-gray-700;
+        @apply mb-4 text-4xl text-purple-700;
+    }
+
+    &__content {
+        @apply text-sm;
     }
 }
-
-.card__content {}
