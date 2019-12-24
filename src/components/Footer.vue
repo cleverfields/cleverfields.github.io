@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-gray-500">
+  <footer class="bg-gray-100">
     <div class="container mx-auto px-6 pt-10 pb-6">
       <div class="flex flex-wrap">
         <div class="w-full md:w-1/4 text-center md:text-left">
@@ -51,7 +51,10 @@
               <a href="#" class="hover:underline text-gray-600 hover:text-orange-500">About Us</a>
             </li>
             <li class="mt-2">
-              <a href="#" class="hover:underline text-gray-600 hover:text-orange-500">Contact</a>
+              <a
+                href="/contact"
+                class="hover:underline text-gray-600 hover:text-orange-500"
+              >Contactez-moi !</a>
             </li>
           </ul>
         </div>

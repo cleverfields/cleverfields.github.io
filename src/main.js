@@ -10,9 +10,7 @@ export default function(Vue, { router, head, isClient }) {
         lang: "fr"
     };
 
-    head.bodyAttrs = {
-        class: "gradient"
-    };
+    head.bodyAttrs = {};
 
     head.meta.push(
         {
